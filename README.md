@@ -2,14 +2,13 @@
 
 ## Key Highlights
 
-**Comprehensive Clustering Analysis:** 
-Utilize K-means and hierarchical clustering to analyze synthetic datasets and world indicators, revealing meaningful groupings and trends.
-**Performance Validation:** 
-Implement accuracy and F1 score metrics to evaluate the clustering results, ensuring robust and reliable analysis.
-**Interactive Visualizations:** 
-Create informative scatter plots and dendrograms that highlight the clustering results, providing clear and insightful visual representations.
-**Data-Driven Insights:** 
-Apply clustering techniques to real-world data, such as world indicators, to identify similar countries based on various socio-economic factors.
+**Comprehensive Clustering Analysis:** Utilize K-means and hierarchical clustering to analyze synthetic datasets and world indicators, revealing meaningful groupings and trends.
+
+**Performance Validation:** Implement accuracy and F1 score metrics to evaluate the clustering results, ensuring robust and reliable analysis.
+
+**Interactive Visualizations:** Create informative scatter plots and dendrograms that highlight the clustering results, providing clear and insightful visual representations.
+
+**Data-Driven Insights:** Apply clustering techniques to real-world data, such as world indicators, to identify similar countries based on various socio-economic factors.
 
 ## Tasks
 
