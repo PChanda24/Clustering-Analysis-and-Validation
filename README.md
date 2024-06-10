@@ -1,4 +1,5 @@
 # Clustering Analysis & Validation Project
+This project is a valuable resource for data scientists, analysts, and anyone interested in clustering techniques and their applications in various fields. Dive into the code, explore the datasets, and gain insights from clustering analysis!
 
 ## Learnings
 1. How to apply and compare different clustering algorithms on diverse datasets.
@@ -35,5 +36,3 @@
 1. Applied K-means and hierarchical clustering methods to group similar countries.
 2. Used internal validation metrics to assess cluster quality.
 3. Reported the best clustering solution and key indicators, detailing the groups and countries within them and visualized the clustering results with scatter plots for different indicators.
-
-This project is a valuable resource for data scientists, analysts, and anyone interested in clustering techniques and their applications in various fields. Dive into the code, explore the datasets, and gain insights from clustering analysis!
