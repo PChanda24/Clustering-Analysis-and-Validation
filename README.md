@@ -1,6 +1,7 @@
 # Clustering Analysis & Validation Project
 This project is a valuable resource for data scientists, analysts, and anyone interested in clustering techniques and their applications in various fields. Dive into the code, explore the datasets, and gain insights from clustering analysis!
 
+
 ## Skills and Topics Covered
 
 ### Initial Exploration, Data Cleaning and Preprocessing:
@@ -15,6 +16,7 @@ This project is a valuable resource for data scientists, analysts, and anyone in
 
 ### Optimizing Number of Clusters:
 **1. Elbow Method:** Used the Elbow method to determine the optimal number of clusters by plotting the within-cluster sum of squares against the number of clusters.
+
 **2. Silhouette Analysis:** Calculated the Silhouette score / coefficient to measure how similar an object is to its own cluster compared to other clusters, helping to validate the consistency within clusters.
 
 ### Data Visualization:
