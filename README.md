@@ -63,14 +63,6 @@ This project is a valuable resource for data scientists, analysts, and anyone in
 
 
 
-## Learnings
-1. How to apply and compare different clustering algorithms on diverse datasets.
-2. Techniques for validating and interpreting clustering results.
-3. The importance of data preprocessing and feature selection in clustering analysis.
-4. Practical skills in using Python libraries such as pandas, scikit-learn, and matplotlib for data analysis and visualization.
-
-
-
 ## Key Highlights
 
 **Comprehensive Clustering Analysis:** Utilize K-means and hierarchical clustering to analyze synthetic datasets and world indicators, revealing meaningful groupings and trends.
@@ -80,3 +72,11 @@ This project is a valuable resource for data scientists, analysts, and anyone in
 **Interactive Visualizations:** Create informative scatter plots and dendrograms that highlight the clustering results, providing clear and insightful visual representations.
 
 **Data-Driven Insights:** Apply clustering techniques to real-world data, such as world indicators, to identify similar countries based on various socio-economic factors.
+
+
+
+## Learnings
+1. How to apply and compare different clustering algorithms on diverse datasets.
+2. Techniques for validating and interpreting clustering results.
+3. The importance of data preprocessing and feature selection in clustering analysis.
+4. Practical skills in using Python libraries such as pandas, scikit-learn, and matplotlib for data analysis and visualization.
