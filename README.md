@@ -48,9 +48,11 @@ This project is a valuable resource for data scientists, analysts, and anyone in
 
 ### Application to Synthetic and Real-World Data:
 **1. Synthetic Data Analysis:** Applied clustering techniques to synthetic datasets to understand fundamental clustering behaviors and validate the methods used.
+
 **Datasets**: Data1.csv, Data2.csv, Data3.csv, Data4.csv, Data5.csv, Data6.csv, Data7.csv, Data8.csv
 
 **2. Real-World Data Application:** Implemented clustering on the world indicators dataset to group countries based on various socio-economic indicators, deriving meaningful insights and actionable conclusions.
+
 **Dataset**: world_indicators.csv
 
 
